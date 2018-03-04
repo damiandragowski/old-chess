@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="BladDanych.java">
+        <attr name="class_dependency_java.lang.Exception" stringvalue="BladDanych"/>
+    </fileobject>
+    <fileobject name="Rezygnacja.java">
+        <attr name="class_dependency_java.lang.Exception" stringvalue="Rezygnacja"/>
+    </fileobject>
+    <fileobject name="BladProtokolu.java">
+        <attr name="class_dependency_java.lang.Exception" stringvalue="BladProtokolu"/>
+    </fileobject>
+    <fileobject name="GraczZajety.java">
+        <attr name="class_dependency_java.lang.Exception" stringvalue="GraczZajety"/>
+    </fileobject>
+</attributes>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="NowaGra.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="NowaGra"/>
+    </fileobject>
+    <fileobject name="PionekDochodzi.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="PionekDochodzi"/>
+    </fileobject>
+    <fileobject name="Gra.java">
+        <attr name="class_dependency_java.lang.Thread" stringvalue="Gra"/>
+    </fileobject>
+    <fileobject name="Szachownica.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="Szachownica"/>
+    </fileobject>
+    <fileobject name="OknoProgramu.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="OknoProgramu"/>
+    </fileobject>
+    <fileobject name="ZegarSekundowy.java">
+        <attr name="class_dependency_java.lang.Thread" stringvalue="ZegarSekundowy"/>
+    </fileobject>
+    <fileobject name="Wygrales.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="Wygrales"/>
+    </fileobject>
+    <fileobject name="OProgramie.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="OProgramie"/>
+    </fileobject>
+</attributes>

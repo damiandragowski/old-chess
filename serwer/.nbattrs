@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="Serwer.java">
+        <attr name="class_dependency_java.lang.Thread" stringvalue="Serwer"/>
+    </fileobject>
+    <fileobject name="CzekanieNaGraczy.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="CzekanieNaGraczy"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="CzekanieNaGraczy;CzekanieNaGraczy.ZmieniaczEtykiety"/>
+    </fileobject>
+    <fileobject name="DanePolaczenia.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="DanePolaczenia"/>
+    </fileobject>
+</attributes>
